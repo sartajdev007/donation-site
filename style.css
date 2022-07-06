@@ -13,6 +13,10 @@ h3 {
     font-weight: 700;
 }
 
+h4 {
+    font-size: 25px;
+}
+
 .banner-section {
     background-image: url(images/donation8.jpg);
     background-repeat: no-repeat;
@@ -90,4 +94,42 @@ input {
 
 .other-amount a {
     margin-top: 10px;
+}
+
+/* Doanate Plan */
+.donate-plan {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.plans {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#plan1,
+#plan2,
+#plan3 {
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#plan1 {
+    background: #4F9DA61A;
+    padding: 40px 50px;
+    text-align: left;
+}
+
+#plan2 {
+    background: #FF59591A;
+    padding: 25px 50px;
+    text-align: left;
+}
+
+#plan3 {
+    background: #FFF4D6;
+    padding: 25px 50px;
+    text-align: left;
 }
