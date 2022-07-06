@@ -39,7 +39,9 @@ h4 {
     color: white;
     text-align: center;
     font-weight: 200;
+    text-shadow: 20px 20px 50px #c21d1d;
 }
+
 
 .donate-button {
     text-decoration: none;
@@ -216,7 +218,8 @@ footer p {
 .story-section img {
     width: 300px;
     height: 200px;
-    border: 2px solid #FF5959;
+    border: 2px solid #2e2c2c;
+    box-shadow: 10px 10px 40px #490a4b;
 }
 
 .first-row {
