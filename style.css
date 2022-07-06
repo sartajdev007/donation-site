@@ -112,8 +112,8 @@ input {
 #plan2,
 #plan3 {
     margin-top: 3%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
 }
 
 #plan1 {
@@ -124,12 +124,12 @@ input {
 
 #plan2 {
     background: #FF59591A;
-    padding: 25px 50px;
+    padding: 40px 50px;
     text-align: left;
 }
 
 #plan3 {
     background: #FFF4D6;
-    padding: 25px 50px;
+    padding: 40px 50px;
     text-align: left;
 }
